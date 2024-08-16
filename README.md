@@ -1,6 +1,6 @@
 # Portiflio
 
-<h2 align="left">Tech</h2>
+
 
 ###
 
